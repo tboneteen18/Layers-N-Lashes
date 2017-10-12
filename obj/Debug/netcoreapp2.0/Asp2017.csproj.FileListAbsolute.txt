@@ -1,0 +1,12 @@
+/Workspace/Layers-N-Lashes/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Workspace/Layers-N-Lashes/bin/Debug/netcoreapp2.0/Asp2017.deps.json
+/Workspace/Layers-N-Lashes/bin/Debug/netcoreapp2.0/Asp2017.runtimeconfig.json
+/Workspace/Layers-N-Lashes/bin/Debug/netcoreapp2.0/Asp2017.runtimeconfig.dev.json
+/Workspace/Layers-N-Lashes/bin/Debug/netcoreapp2.0/Asp2017.dll
+/Workspace/Layers-N-Lashes/bin/Debug/netcoreapp2.0/Asp2017.pdb
+/Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Asp2017.csprojResolveAssemblyReference.cache
+/Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Asp2017.csproj.CoreCompileInputs.cache
+/Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Asp2017.AssemblyInfoInputs.cache
+/Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Asp2017.AssemblyInfo.cs
+/Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Asp2017.dll
+/Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Asp2017.pdb

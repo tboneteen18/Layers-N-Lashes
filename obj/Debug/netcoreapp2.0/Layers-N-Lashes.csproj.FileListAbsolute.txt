@@ -1,0 +1,11 @@
+/Workspace/Layers-N-Lashes/bin/Debug/netcoreapp2.0/Layers-N-Lashes.deps.json
+/Workspace/Layers-N-Lashes/bin/Debug/netcoreapp2.0/Layers-N-Lashes.runtimeconfig.json
+/Workspace/Layers-N-Lashes/bin/Debug/netcoreapp2.0/Layers-N-Lashes.runtimeconfig.dev.json
+/Workspace/Layers-N-Lashes/bin/Debug/netcoreapp2.0/Layers-N-Lashes.dll
+/Workspace/Layers-N-Lashes/bin/Debug/netcoreapp2.0/Layers-N-Lashes.pdb
+/Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Layers-N-Lashes.csprojResolveAssemblyReference.cache
+/Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Layers-N-Lashes.csproj.CoreCompileInputs.cache
+/Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Layers-N-Lashes.AssemblyInfoInputs.cache
+/Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Layers-N-Lashes.AssemblyInfo.cs
+/Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Layers-N-Lashes.dll
+/Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Layers-N-Lashes.pdb
