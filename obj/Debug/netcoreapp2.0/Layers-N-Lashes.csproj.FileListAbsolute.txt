@@ -9,3 +9,14 @@
 /Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Layers-N-Lashes.AssemblyInfo.cs
 /Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Layers-N-Lashes.dll
 /Workspace/Layers-N-Lashes/obj/Debug/netcoreapp2.0/Layers-N-Lashes.pdb
+D:\Code\Layers-N-Lashes\bin\Debug\netcoreapp2.0\Layers-N-Lashes.deps.json
+D:\Code\Layers-N-Lashes\bin\Debug\netcoreapp2.0\Layers-N-Lashes.runtimeconfig.json
+D:\Code\Layers-N-Lashes\bin\Debug\netcoreapp2.0\Layers-N-Lashes.runtimeconfig.dev.json
+D:\Code\Layers-N-Lashes\bin\Debug\netcoreapp2.0\Layers-N-Lashes.dll
+D:\Code\Layers-N-Lashes\bin\Debug\netcoreapp2.0\Layers-N-Lashes.pdb
+D:\Code\Layers-N-Lashes\obj\Debug\netcoreapp2.0\Layers-N-Lashes.csprojResolveAssemblyReference.cache
+D:\Code\Layers-N-Lashes\obj\Debug\netcoreapp2.0\Layers-N-Lashes.csproj.CoreCompileInputs.cache
+D:\Code\Layers-N-Lashes\obj\Debug\netcoreapp2.0\Layers-N-Lashes.AssemblyInfoInputs.cache
+D:\Code\Layers-N-Lashes\obj\Debug\netcoreapp2.0\Layers-N-Lashes.AssemblyInfo.cs
+D:\Code\Layers-N-Lashes\obj\Debug\netcoreapp2.0\Layers-N-Lashes.dll
+D:\Code\Layers-N-Lashes\obj\Debug\netcoreapp2.0\Layers-N-Lashes.pdb
